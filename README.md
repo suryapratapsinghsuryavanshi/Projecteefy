@@ -7,6 +7,6 @@ In this whole repo you only find about how to take steps to complete new creativ
 ### [How To Start](./guides/how-to-start.MD)
 
 ## Technical Projects
-| Project Category | Project Name | Project Guide |
-| :-- | :--: | :--: |
-| <b>Test1</b> | Test2 | [Test2](./projects/test2.md) |
+| Project Category | Technology | Project Name | Project Guide |
+| :-- | -- | :--: | :--: |
+| Beginner | C/C++ | Fake Database | [Link](./projects/Fake_Database_C.md) |
