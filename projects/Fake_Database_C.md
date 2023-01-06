@@ -19,6 +19,7 @@ A Fake Database is a kind of "structure" or "array" that effectively use a C/C++
 
 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐈𝐧𝐬𝐞𝐫𝐭𝐢𝐨𝐧: Add or insert data to the database.
 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐃𝐞𝐥𝐞𝐭𝐢𝐨𝐧: Remove or Delete data from the database.
+𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐒𝐢𝐳𝐞: Is Expanded as per requirement. (𝗟𝗶𝗻𝗸𝗲𝗱 𝗟𝗶𝘀𝘁)
 ```
 
 Now It totally depends on how you can implement this project but one thing keep in mind databases want accuracy and is unambiguous so make sure you think about edge case as well.
