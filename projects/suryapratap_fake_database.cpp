@@ -1,6 +1,16 @@
 #include<iostream>
 using namespace std;
 
+// File to Database.
+void getDataList() {
+    
+}
+
+// Database to file.
+void setDataList() {
+    
+}
+
 // Linked List Block
 class LinkedList {
     public:
