@@ -29,4 +29,12 @@ Try it with yourself and make a commit of your file with your name field along w
 
 <b>Example:</b> <i>suryapratap_fake_database.cpp</i>
 
+## Implementation
+You can implement it with any kind of language and any kind of Data structure but the best way to implement it is to use statical typed language and a Linked List data structure to improve the performance and speed of the program. You know about Data are not persisted in RAM for more time so save the data into files.
+
+1. <b>Language:</b> C++ 
+1. <b>Data Structure:</b> Linked List
+1. <b>File Handling:</b> Real-Time File Handling
+1. <b>Dashboard or Manu:</b> Required
+
 > You can implement it with any programming language you are good at.
