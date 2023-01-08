@@ -1,16 +1,6 @@
 #include<iostream>
 using namespace std;
 
-// File to Database.
-void getDataList() {
-    
-}
-
-// Database to file.
-void setDataList() {
-    
-}
-
 // Linked List Block
 class LinkedList {
     public:
@@ -64,11 +54,16 @@ class LinkedList {
 
 // File Handling
 
+// File to Database.
+void getDataList() {
+    
+}
+
+// Database to file.
+void setDataList() {
+
+}
+
 int main() {
-    // Create a linkedlist.
-    LinkedList *head = NULL;
-    head = head->write(head, "One");
-    head = head->write(head, "Two");
-    head->read(head);
-    head->search(head, 1);
+    
 }
